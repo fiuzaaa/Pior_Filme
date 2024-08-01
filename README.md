@@ -12,8 +12,8 @@ A **Pior Filme API** é uma aplicação Django que permite a gestão e consulta 
 Clone o repositório para sua máquina local usando o comando abaixo:
 
 ```bash
-git clone https://github.com/fiuzaaa/pior-filme.git
-cd pior-filme
+git clone https://github.com/fiuzaaa/Pior_Filme.git
+cd pior_filme
 ```
 
 ### 2. Criar um Ambiente Virtual
