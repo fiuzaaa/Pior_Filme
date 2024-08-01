@@ -1,0 +1,44 @@
+# Python bytecode e cache
+__pycache__/
+*.py[cod]
+
+# Diretórios de ambiente virtual
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Arquivos de log
+*.log
+
+# Variáveis de ambiente e configuração local
+.env
+
+# Arquivos de configuração IDE (exemplos para VSCode e PyCharm)
+.vscode/
+.idea/
+
+# Arquivos de controle de dependências
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Arquivos de pacotes Python
+*.egg-info/
+*.eggs/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos e diretórios relacionados ao Git
+.git/
+
+# Arquivos de migração compilados
+distincoes/migrations/*.pyc
+distincoes/management/commands/*.pyc
+distincoes/tests/*.pyc
